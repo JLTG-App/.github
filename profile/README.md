@@ -1,11 +1,6 @@
-"Jet Lag: The Game App" is a mobile app that is used to participate in real life games and events hosted in a city, country, continent or even the whole world.
-<!--
+Jet Lag: The Game App is a fan-made mobile app inspired by the hit travel competition series **Jet Lag: The Game**. Built by fans, for fans, this app enables you and your friends participate in large-scale, location-based games across cities, countries, continents, or even the entire world.
 
-**Here are some ideas to get you started:**
+Whether you're navigating your own town or embarking on a cross-country adventure, the app transforms your surroundings into a strategic playground. Create or join games, track movement, complete objectives, and experience the thrill of global competition—Jet Lag-style.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# ⚠️
+This app is **not affiliated** with or **endorsed** by Jet Lag: The Game or Wendover Productions. It is a community project made out of love for the show.
