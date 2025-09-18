@@ -1,4 +1,7 @@
-# App is currently WORK IN PROGRESS
+# App is currently WORK IN PROGRESS (Pre Alpha)
+
+Progressbar:
+#------------------------------------------------- 2% / (When 100% then we can start with the Beta phase)
 
 Jet Lag: The Game App is a fan-made mobile app inspired by the hit travel competition series **Jet Lag: The Game**. Built by fans, for fans, this app enables you and your friends participate in large-scale, location-based games across cities, countries, continents, or even the entire world.
 
