@@ -1,4 +1,4 @@
-"Games IRL" is a mobile app that is used to participate in real life games and events hosted in a city, country, continent or even the whole world.
+"Jet Lag: The Game App" is a mobile app that is used to participate in real life games and events hosted in a city, country, continent or even the whole world.
 <!--
 
 **Here are some ideas to get you started:**
