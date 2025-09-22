@@ -11,7 +11,7 @@ Whether you're navigating your own town or embarking on a cross-country adventur
 
 ## ⚠️ Disclaimer ⚠️ 
 This app is **not affiliated** with or **endorsed** by Jet Lag: The Game or Wendover Productions. It is a community project made out of love for the show.
-
+<--
 
 <a href="https://gitmoji.dev">
   <img
@@ -19,3 +19,4 @@ This app is **not affiliated** with or **endorsed** by Jet Lag: The Game or Wend
     alt="Gitmoji"
   />
 </a>
+--!>
