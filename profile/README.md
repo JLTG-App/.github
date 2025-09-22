@@ -1,4 +1,4 @@
-7# App is currently WORK IN PROGRESS (Pre Alpha)
+# App is currently WORK IN PROGRESS (Pre Alpha)
 
 Progressbar:
 ```
